@@ -1,0 +1,12 @@
+pwd
+mkdir
+touch
+cd
+cd ..
+cat
+vim
+ls -la
+cp
+mv
+rm
+clear
