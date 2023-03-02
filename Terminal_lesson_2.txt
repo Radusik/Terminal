@@ -1,8 +1,0 @@
-git branch branch_name - создание ветки
-git branch - показать ветки 
-git checkout - перепрыгнуть в ветку
-git checkout -b - создать и сразу перескочить в созданную ветку
-git push origin - отправить ветку на внешний репозиторий 
-git push origin --all - отправить все новые ветки на внешний репозиторий
-git merge branch_name - вмёржить ветку в branch_name
-git branch -d branch_name - удалить ветку
